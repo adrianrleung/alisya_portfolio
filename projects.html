@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#f3f6f8">
+  <meta name="theme-color" content="#081d2e">
   <meta name="description" content="Engineering project portfolio of Alisya Sofiyuddin.">
   <title>Projects | Alisya Sofiyuddin</title>
   <link rel="preload" href="./assets/fonts/sora-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -28,12 +28,28 @@
     </div>
   </header>
   <main id="main" class="route-page projects-page">
-  <section class="page-section projects-section" id="projects" aria-labelledby="projects-title">
-      <div class="section-heading route-heading">
-        <div><h1 id="projects-title">Projects</h1>
-        <p class="route-note">Select a project to open its full write-up and original images.</p></div>
-      </div>
-      <nav class="project-index" aria-label="Project index">
+    <svg class="blueprint-filters" aria-hidden="true" focusable="false" width="0" height="0">
+      <filter id="blueprint-edges" x="0%" y="0%" width="100%" height="100%" color-interpolation-filters="sRGB">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="0.35" result="soft" />
+        <feConvolveMatrix in="soft" order="3" kernelMatrix="0 -1 0 -1 4 -1 0 -1 0" preserveAlpha="true" result="positive" />
+        <feConvolveMatrix in="soft" order="3" kernelMatrix="0 1 0 1 -4 1 0 1 0" preserveAlpha="true" result="negative" />
+        <feBlend in="positive" in2="negative" mode="screen" result="edges" />
+        <feComponentTransfer in="edges" result="levels">
+          <feFuncR type="linear" slope="2" intercept="-0.02" />
+          <feFuncG type="linear" slope="2" intercept="-0.02" />
+          <feFuncB type="linear" slope="2" intercept="-0.02" />
+        </feComponentTransfer>
+        <feMorphology in="SourceAlpha" operator="erode" radius="2" result="inner" />
+        <feComposite in="levels" in2="inner" operator="in" result="masked" />
+        <feColorMatrix in="masked" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0.2126 0.7152 0.0722 0 0" />
+      </filter>
+    </svg>
+    <section class="page-section projects-section" id="projects" aria-labelledby="projects-title">
+      <header class="section-heading route-heading">
+        <h1 id="projects-title">Projects</h1>
+        <p class="route-note">Choose a drawing to see the full project.</p>
+      </header>
+      <nav class="project-index" id="project-index" aria-label="Project index">
         <a class="index-tile index-volumetric" href="#project-volumetric">
           <img src="./assets/images/591247_9e9eb9f0f0f84bd59efaae5b49da657c~mv2.png" alt="" loading="lazy" decoding="async">
           <span>Volumetric 3D Printer</span>
@@ -73,6 +89,7 @@
       </nav>
 
       <div class="project-panels">
+        <a class="project-back" href="#project-index">All projects</a>
         <details name="projects" class="project-panel line-panel" id="project-volumetric">
           <summary>
             <span class="summary-copy"><h2 class="project-title">Volumetric 3D Printer</h2><span class="project-meta">Mechanical Design and Manufacturing | Additive Manufacturing | Optomechanics<br>September 2025 - June 2026</span></span>

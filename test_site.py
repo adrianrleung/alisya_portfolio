@@ -21,7 +21,7 @@ class Site(HTMLParser):
         for name in ("href", "src"):
             if attrs.get(name):
                 self.refs.append((name, attrs[name]))
-        if tag == "a" and attrs.get("href", "").startswith("#project-"):
+        if tag == "a" and "index-tile" in attrs.get("class", "").split() and attrs.get("href", "").startswith("#project-"):
             self.project_links.append(attrs["href"][1:])
         if tag == "details" and "project-panel" in attrs.get("class", ""):
             self.project_panels.append(attrs)
