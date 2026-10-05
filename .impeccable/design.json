@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-05T20:19:18Z",
+  "title": "Design System: Technical Editorial Portfolio",
+  "extensions": {
+    "colorMeta": {
+      "canvas": {
+        "role": "neutral",
+        "displayName": "Cool Canvas",
+        "canonical": "#F3F6F8",
+        "tonalRamp": ["oklch(15.0% 0.004 236.5)", "oklch(26.4% 0.004 236.5)", "oklch(37.9% 0.004 236.5)", "oklch(49.3% 0.004 236.5)", "oklch(60.7% 0.004 236.5)", "oklch(72.1% 0.004 236.5)", "oklch(83.6% 0.004 236.5)", "oklch(95.0% 0.004 236.5)"]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Surface White",
+        "canonical": "#FFFFFF",
+        "tonalRamp": ["oklch(15.0% 0.000 0.0)", "oklch(26.4% 0.000 0.0)", "oklch(37.9% 0.000 0.0)", "oklch(49.3% 0.000 0.0)", "oklch(60.7% 0.000 0.0)", "oklch(72.1% 0.000 0.0)", "oklch(83.6% 0.000 0.0)", "oklch(95.0% 0.000 0.0)"]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Graphite Ink",
+        "canonical": "#172735",
+        "tonalRamp": ["oklch(15.0% 0.034 245.9)", "oklch(26.4% 0.034 245.9)", "oklch(37.9% 0.034 245.9)", "oklch(49.3% 0.034 245.9)", "oklch(60.7% 0.034 245.9)", "oklch(72.1% 0.034 245.9)", "oklch(83.6% 0.034 245.9)", "oklch(95.0% 0.034 245.9)"]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Slate Metadata",
+        "canonical": "#4B5E6D",
+        "tonalRamp": ["oklch(15.0% 0.034 242.2)", "oklch(26.4% 0.034 242.2)", "oklch(37.9% 0.034 242.2)", "oklch(49.3% 0.034 242.2)", "oklch(60.7% 0.034 242.2)", "oklch(72.1% 0.034 242.2)", "oklch(83.6% 0.034 242.2)", "oklch(95.0% 0.034 242.2)"]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Cool Rule",
+        "canonical": "#D4DDE5",
+        "tonalRamp": ["oklch(15.0% 0.015 244.7)", "oklch(26.4% 0.015 244.7)", "oklch(37.9% 0.015 244.7)", "oklch(49.3% 0.015 244.7)", "oklch(60.7% 0.015 244.7)", "oklch(72.1% 0.015 244.7)", "oklch(83.6% 0.015 244.7)", "oklch(95.0% 0.015 244.7)"]
+      },
+      "cobalt": {
+        "role": "primary",
+        "displayName": "Cobalt",
+        "canonical": "#2857E8",
+        "tonalRamp": ["oklch(15.0% 0.225 265.2)", "oklch(26.4% 0.225 265.2)", "oklch(37.9% 0.225 265.2)", "oklch(49.3% 0.225 265.2)", "oklch(60.7% 0.225 265.2)", "oklch(72.1% 0.225 265.2)", "oklch(83.6% 0.225 265.2)", "oklch(95.0% 0.225 265.2)"]
+      },
+      "cobalt-soft": {
+        "role": "primary",
+        "displayName": "Cobalt Tint",
+        "canonical": "#E3EBF8",
+        "tonalRamp": ["oklch(15.0% 0.020 260.2)", "oklch(26.4% 0.020 260.2)", "oklch(37.9% 0.020 260.2)", "oklch(49.3% 0.020 260.2)", "oklch(60.7% 0.020 260.2)", "oklch(72.1% 0.020 260.2)", "oklch(83.6% 0.020 260.2)", "oklch(95.0% 0.020 260.2)"]
+      }
+    },
+    "typographyMeta": {
+      "display": {"displayName": "Display", "purpose": "Landing name and route headings."},
+      "title": {"displayName": "Title", "purpose": "Project and internship names and index labels."},
+      "body": {"displayName": "Body", "purpose": "Degree and navigation text."},
+      "reading": {"displayName": "Reading", "purpose": "Biography, project explanations and internship details."},
+      "label": {"displayName": "Label", "purpose": "Actions and compact metadata."}
+    },
+    "shadows": [],
+    "motion": [
+      {"name": "hero-arrive", "value": "520ms / 620ms cubic-bezier(0.16, 1, 0.3, 1)", "purpose": "One short arrival for the landing copy and portrait."},
+      {"name": "control-state", "value": "150ms ease", "purpose": "Brief color and arrow feedback on controls."}
+    ],
+    "breakpoints": [
+      {"name": "tablet", "value": "900px"},
+      {"name": "navigation-stack", "value": "700px"},
+      {"name": "single-column-index", "value": "460px"}
+    ]
+  },
+  "components": [
+    {
+      "name": "Resume PDF action",
+      "kind": "button",
+      "refersTo": "resume-action",
+      "description": "The primary résumé link, visible in the shared masthead.",
+      "html": "<a class=\"ds-resume\" href=\"#resume\">Resume PDF</a>",
+      "css": ".ds-resume{display:inline-flex;min-height:2.65rem;align-items:center;justify-content:center;border:1px solid transparent;background:var(--blue);color:#fff;padding:.55rem .9rem;font-family:var(--body);font-size:.9rem;font-weight:700;text-decoration:none;transition:background-color 150ms ease,color 150ms ease}.ds-resume:hover{background:var(--ink);color:#fff}.ds-resume:focus-visible{outline:3px solid var(--blue);outline-offset:4px}"
+    },
+    {
+      "name": "LinkedIn action",
+      "kind": "button",
+      "refersTo": "linkedin-action",
+      "description": "An outlined direct LinkedIn profile link paired with the résumé action.",
+      "html": "<a class=\"ds-linkedin\" href=\"https://www.linkedin.com/in/nawal-alisya-mohd-sofiyuddin-039b1524b\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>",
+      "css": ".ds-linkedin{display:inline-flex;min-height:2.65rem;align-items:center;justify-content:center;border:1px solid var(--rule);background:transparent;color:var(--ink);padding:.55rem .9rem;font-family:var(--body);font-size:.9rem;font-weight:700;text-decoration:none;transition:background-color 150ms ease,color 150ms ease,border-color 150ms ease}.ds-linkedin:hover{border-color:var(--ink);background:var(--ink);color:#fff}.ds-linkedin:focus-visible{outline:3px solid var(--blue);outline-offset:4px}"
+    },
+    {
+      "name": "Shared route navigation",
+      "kind": "nav",
+      "refersTo": "site-navigation",
+      "description": "Three direct routes with a cobalt marker on the current page.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a aria-current=\"page\" href=\"#about\">About</a><a href=\"#projects\">Projects</a><a href=\"#internships\">Internships</a></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;gap:1.5rem}.ds-nav a{position:relative;padding:.6rem 0;color:var(--muted);font-family:var(--body);font-size:.94rem;font-weight:700;text-decoration:none}.ds-nav a[aria-current=page]{color:var(--ink)}.ds-nav a[aria-current=page]::after{position:absolute;right:0;bottom:.28rem;left:0;height:2px;background:var(--blue);content:\"\"}.ds-nav a:focus-visible{outline:3px solid var(--blue);outline-offset:4px}"
+    },
+    {
+      "name": "Portfolio path link",
+      "kind": "custom",
+      "refersTo": "hero-path",
+      "description": "A direct link from About to the Projects or Internships route.",
+      "html": "<a class=\"ds-path\" href=\"#projects\"><span><strong>Projects</strong><small>Explore the project index</small></span><svg aria-hidden=\"true\" viewBox=\"0 0 20 20\"><path d=\"M3 10h13M10 4l6 6-6 6\"/></svg></a>",
+      "css": ".ds-path{display:flex;min-height:4.5rem;align-items:center;justify-content:space-between;gap:1rem;border-bottom:1px solid var(--rule);padding:.7rem 0;color:var(--ink);text-decoration:none}.ds-path span{display:grid;gap:.1rem}.ds-path strong{font-family:var(--display);font-size:1.05rem;font-weight:600}.ds-path small{color:var(--muted);font-family:var(--body);font-size:.88rem}.ds-path svg{width:1.25rem;fill:none;stroke:currentColor;stroke-width:1.6;transition:transform 160ms ease}.ds-path:hover{color:var(--blue)}.ds-path:hover svg{transform:translateX(4px)}.ds-path:focus-visible{outline:3px solid var(--blue);outline-offset:4px}"
+    },
+    {
+      "name": "Project index link",
+      "kind": "card",
+      "refersTo": "project-index-tile",
+      "description": "The title strip and direct anchor used by the image-led project index.",
+      "html": "<a class=\"ds-index-link\" href=\"#project-volumetric\"><span>Volumetric 3D Printer</span><svg aria-hidden=\"true\" viewBox=\"0 0 20 20\"><path d=\"M3 10h13M10 4l6 6-6 6\"/></svg></a>",
+      "css": ".ds-index-link{display:flex;min-height:3.3rem;align-items:center;justify-content:space-between;gap:1rem;border:1px solid var(--rule);background:var(--surface);padding:.65rem .8rem;color:var(--ink);font-family:var(--display);font-size:1rem;font-weight:600;text-decoration:none;transition:border-color 150ms ease,color 150ms ease}.ds-index-link:hover{border-color:var(--blue);color:var(--blue)}.ds-index-link svg{width:1.1rem;fill:none;stroke:currentColor;stroke-width:1.6}.ds-index-link:focus-visible{outline:3px solid var(--blue);outline-offset:4px}"
+    },
+    {
+      "name": "Project disclosure",
+      "kind": "card",
+      "refersTo": "project-panel",
+      "description": "A native, one-at-a-time disclosure for the full source write-up; paired figures stay side by side on desktop, and images remain size-capped at source resolution.",
+      "html": "<details name=\"projects\" class=\"ds-project\"><summary><h2>Volumetric 3D Printer</h2><span>September 2025 - June 2026</span></summary><p>Full original explanation opens on selection.</p></details>",
+      "css": ".ds-project{border-bottom:1px solid var(--rule);color:var(--ink)}.ds-project summary{display:flex;min-height:5.5rem;align-items:center;justify-content:space-between;gap:1rem;cursor:pointer;list-style:none;padding:1rem .5rem}.ds-project summary::-webkit-details-marker{display:none}.ds-project h2{margin:0;font-family:var(--display);font-size:1.45rem;font-weight:600;letter-spacing:-.02em}.ds-project summary span{color:var(--muted);font-family:var(--body);font-size:.9rem}.ds-project[open] summary h2{color:var(--blue)}.ds-project summary:focus-visible{outline:3px solid var(--blue);outline-offset:4px}.ds-project p{border-top:1px solid var(--rule);margin:0;padding:1.25rem .5rem;font-family:var(--body);line-height:1.72}"
+    },
+    {
+      "name": "Internship entry",
+      "kind": "card",
+      "refersTo": "internship-panel",
+      "description": "A visible role header with the original internship details beneath it.",
+      "html": "<details open class=\"ds-internship\"><summary><strong>Amazon Web Services</strong><span>Data Centre Engineering Operations Intern</span></summary><ul><li>Original role detail remains visible.</li></ul></details>",
+      "css": ".ds-internship{border-bottom:1px solid var(--rule);color:var(--ink)}.ds-internship summary{display:flex;align-items:center;gap:1rem;cursor:pointer;list-style:none;padding:1.2rem 0}.ds-internship summary::-webkit-details-marker{display:none}.ds-internship summary strong,.ds-internship summary span{font-family:var(--display);font-size:1.2rem;font-weight:600}.ds-internship ul{max-width:70ch;border-top:1px solid var(--rule);margin:0 0 0 8rem;padding:1.25rem 0 1.7rem 1.25rem;font-family:var(--body);line-height:1.65}.ds-internship li{margin-bottom:.55rem}.ds-internship summary:focus-visible{outline:3px solid var(--blue);outline-offset:4px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Three Routes, One Technical Story",
+    "overview": "This portfolio behaves like a concise engineering folio: identity and contact form a fast entry, project and internship evidence have separate routes, and project write-ups unfold only when selected. Editorial scale and a compact navigation system make the material easy to scan without hiding the source explanations. Cool neutral surfaces, a restrained cobalt accent and fine rules keep attention on Alisya’s original project photography, drawings and plots. Motion is brief and limited to the landing introduction; the visitor controls when project details open.",
+    "keyCharacteristics": [
+      "Three short routes: About, Projects and Internships.",
+      "Sora display type paired with Atkinson Hyperlegible reading text.",
+      "Original engineering images carry the strongest colors and technical proof.",
+      "Cobalt marks primary actions, focus and the current route."
+    ],
+    "rules": [
+      {"name": "The One Blue Rule", "body": "Reserve cobalt for actions, focus and current-route state; let project imagery supply the rest of the page’s color.", "section": "colors"},
+      {"name": "The Cool Ground Rule", "body": "Keep the page on a cool near-white ground. Do not drift back to warm paper or pastel panel stacks.", "section": "colors"},
+      {"name": "The Two-Voice Rule", "body": "Use Sora for brief display text and Atkinson Hyperlegible for sustained reading; do not set project paragraphs in the display face.", "section": "typography"},
+      {"name": "The Three-Route Rule", "body": "Keep identity/contact, project evidence and work history on their own route; do not recombine them into one long scroll.", "section": "layout"},
+      {"name": "The One Entrance Rule", "body": "Keep motion to the landing arrival and short control-state transitions; do not add scroll-triggered reveals, parallax or staged page entrances.", "section": "elevation"}
+    ],
+    "dos": [
+      "Do keep the About, Projects and Internships routes distinct and quick to reach.",
+      "Do use cobalt for primary action, focus and current-route state.",
+      "Do let original project photographs and engineering media provide visual texture.",
+      "Do keep project details user-controlled and preserve reduced-motion preferences."
+    ],
+    "donts": [
+      "Don't return to warm-paper grounds, pastel panel stacks or comic display lettering.",
+      "Don't add parallax, scroll-driven reveals, long page transitions or autoplay.",
+      "Don't substitute gradients, shadows or fabricated diagrams for real project media."
+    ]
+  }
+}

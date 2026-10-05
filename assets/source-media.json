@@ -1,0 +1,337 @@
+{
+  "source": "https://nawalalisya1411.wixsite.com/my-site-4",
+  "assets": {
+    "assets/images/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png/v1/fit/w_1600,h_1600,q_85/11062b_138b4018ea8244fcb5137cb0e98361f3~mv2.png"
+    },
+    "assets/images/11062b_a06d85fa94d64ef68680321f5a043a8c~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/11062b_a06d85fa94d64ef68680321f5a043a8c~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/11062b_a06d85fa94d64ef68680321f5a043a8c~mv2.png/v1/fit/w_1600,h_1600,q_85/11062b_a06d85fa94d64ef68680321f5a043a8c~mv2.png"
+    },
+    "assets/images/591247_03744c80044844f285685f5e7ba306a5~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_03744c80044844f285685f5e7ba306a5~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_03744c80044844f285685f5e7ba306a5~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_03744c80044844f285685f5e7ba306a5~mv2.png"
+    },
+    "assets/images/591247_03e33e6187594878b843af06b4bdd177~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_03e33e6187594878b843af06b4bdd177~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_03e33e6187594878b843af06b4bdd177~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_03e33e6187594878b843af06b4bdd177~mv2.png"
+    },
+    "assets/images/591247_071478c8ba2a4c4fb0e516962d72b6f8~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_071478c8ba2a4c4fb0e516962d72b6f8~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_071478c8ba2a4c4fb0e516962d72b6f8~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_071478c8ba2a4c4fb0e516962d72b6f8~mv2.png"
+    },
+    "assets/images/591247_077697be0c894fb5b640fd2c9f258c27f000.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_077697be0c894fb5b640fd2c9f258c27f000.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_077697be0c894fb5b640fd2c9f258c27f000.jpg/v1/fit/w_1600,h_1600,q_85/591247_077697be0c894fb5b640fd2c9f258c27f000.jpg"
+    },
+    "assets/images/591247_0a3a5ef193e541e0941561da1d3056c9~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_0a3a5ef193e541e0941561da1d3056c9~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_0a3a5ef193e541e0941561da1d3056c9~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_0a3a5ef193e541e0941561da1d3056c9~mv2.png"
+    },
+    "assets/images/591247_0cb56ca37852428cb970ad20a87bfbf9~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_0cb56ca37852428cb970ad20a87bfbf9~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_0cb56ca37852428cb970ad20a87bfbf9~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_0cb56ca37852428cb970ad20a87bfbf9~mv2.png"
+    },
+    "assets/images/591247_0cd36154189b427ca7577db5d95a63d3~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_0cd36154189b427ca7577db5d95a63d3~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_0cd36154189b427ca7577db5d95a63d3~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_0cd36154189b427ca7577db5d95a63d3~mv2.png"
+    },
+    "assets/images/591247_129d5782d3534060a95c06d61349cab3~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_129d5782d3534060a95c06d61349cab3~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_129d5782d3534060a95c06d61349cab3~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_129d5782d3534060a95c06d61349cab3~mv2.png"
+    },
+    "assets/images/591247_1308caf066024dcdbe9a022581fcfd8c~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_1308caf066024dcdbe9a022581fcfd8c~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_1308caf066024dcdbe9a022581fcfd8c~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_1308caf066024dcdbe9a022581fcfd8c~mv2.png"
+    },
+    "assets/images/591247_1373ebefa39444edb0cda4d0f4f362b5~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_1373ebefa39444edb0cda4d0f4f362b5~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_1373ebefa39444edb0cda4d0f4f362b5~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_1373ebefa39444edb0cda4d0f4f362b5~mv2.png"
+    },
+    "assets/images/591247_13e230638c8f4440b99f0ab57b26aa3c~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_13e230638c8f4440b99f0ab57b26aa3c~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_13e230638c8f4440b99f0ab57b26aa3c~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_13e230638c8f4440b99f0ab57b26aa3c~mv2.png"
+    },
+    "assets/images/591247_16344bbc31fa452680f126fa15d67b75~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_16344bbc31fa452680f126fa15d67b75~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_16344bbc31fa452680f126fa15d67b75~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_16344bbc31fa452680f126fa15d67b75~mv2.png"
+    },
+    "assets/images/591247_183f3a0985d549e3ad4fc77d37db6260~mv2.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_183f3a0985d549e3ad4fc77d37db6260~mv2.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_183f3a0985d549e3ad4fc77d37db6260~mv2.jpg/v1/fit/w_1600,h_1600,q_85/591247_183f3a0985d549e3ad4fc77d37db6260~mv2.jpg"
+    },
+    "assets/images/591247_1e1db5848d414c7887131cccd44219f3~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_1e1db5848d414c7887131cccd44219f3~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_1e1db5848d414c7887131cccd44219f3~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_1e1db5848d414c7887131cccd44219f3~mv2.png"
+    },
+    "assets/images/591247_1f9771a86e6c40dfaf449f00eea40c68~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_1f9771a86e6c40dfaf449f00eea40c68~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_1f9771a86e6c40dfaf449f00eea40c68~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_1f9771a86e6c40dfaf449f00eea40c68~mv2.png"
+    },
+    "assets/images/591247_21080297d4d9471486ae412474f1a2c3~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_21080297d4d9471486ae412474f1a2c3~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_21080297d4d9471486ae412474f1a2c3~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_21080297d4d9471486ae412474f1a2c3~mv2.png"
+    },
+    "assets/images/591247_23c996da50e545cbabf2dba186f2c669~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_23c996da50e545cbabf2dba186f2c669~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_23c996da50e545cbabf2dba186f2c669~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_23c996da50e545cbabf2dba186f2c669~mv2.png"
+    },
+    "assets/images/591247_28d4f4b04df24023a68ddc1ecde698c2~mv2.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_28d4f4b04df24023a68ddc1ecde698c2~mv2.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_28d4f4b04df24023a68ddc1ecde698c2~mv2.jpg/v1/fit/w_1600,h_1600,q_85/591247_28d4f4b04df24023a68ddc1ecde698c2~mv2.jpg"
+    },
+    "assets/images/591247_2c3111d908144da4a129b0c7de472e17~mv2.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_2c3111d908144da4a129b0c7de472e17~mv2.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_2c3111d908144da4a129b0c7de472e17~mv2.jpg/v1/fit/w_1600,h_1600,q_85/591247_2c3111d908144da4a129b0c7de472e17~mv2.jpg"
+    },
+    "assets/images/591247_30bb774ff5f74f79b20e94f578534f69~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_30bb774ff5f74f79b20e94f578534f69~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_30bb774ff5f74f79b20e94f578534f69~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_30bb774ff5f74f79b20e94f578534f69~mv2.png"
+    },
+    "assets/images/591247_401a10fd5b7845d3b650c9e9dd66cdc2~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_401a10fd5b7845d3b650c9e9dd66cdc2~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_401a10fd5b7845d3b650c9e9dd66cdc2~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_401a10fd5b7845d3b650c9e9dd66cdc2~mv2.png"
+    },
+    "assets/images/591247_462b112257fb4440af25a3228107ba1b~mv2.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_462b112257fb4440af25a3228107ba1b~mv2.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_462b112257fb4440af25a3228107ba1b~mv2.jpg/v1/fit/w_1600,h_1600,q_85/591247_462b112257fb4440af25a3228107ba1b~mv2.jpg"
+    },
+    "assets/images/591247_470c97641aec48c1a6d3142de8fae985f000.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_470c97641aec48c1a6d3142de8fae985f000.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_470c97641aec48c1a6d3142de8fae985f000.jpg/v1/fit/w_1600,h_1600,q_85/591247_470c97641aec48c1a6d3142de8fae985f000.jpg"
+    },
+    "assets/images/591247_49393aaef5224949ad0ff744775a5f6a~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_49393aaef5224949ad0ff744775a5f6a~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_49393aaef5224949ad0ff744775a5f6a~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_49393aaef5224949ad0ff744775a5f6a~mv2.png"
+    },
+    "assets/images/591247_4b8a014bbbc347f29a264bdb87eff156~mv2.jpeg": {
+      "origin": "https://static.wixstatic.com/media/591247_4b8a014bbbc347f29a264bdb87eff156~mv2.jpeg",
+      "delivery": "https://static.wixstatic.com/media/591247_4b8a014bbbc347f29a264bdb87eff156~mv2.jpeg/v1/fit/w_1600,h_1600,q_85/591247_4b8a014bbbc347f29a264bdb87eff156~mv2.jpeg"
+    },
+    "assets/images/591247_4d285aa36ef640d683c3fe90b72023a5~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_4d285aa36ef640d683c3fe90b72023a5~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_4d285aa36ef640d683c3fe90b72023a5~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_4d285aa36ef640d683c3fe90b72023a5~mv2.png"
+    },
+    "assets/images/591247_4f342a18495141389a5e021451397794~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_4f342a18495141389a5e021451397794~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_4f342a18495141389a5e021451397794~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_4f342a18495141389a5e021451397794~mv2.png"
+    },
+    "assets/images/591247_4f359982bd144904b2c037583f926ead~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_4f359982bd144904b2c037583f926ead~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_4f359982bd144904b2c037583f926ead~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_4f359982bd144904b2c037583f926ead~mv2.png"
+    },
+    "assets/images/591247_567676d5d8ba4048a65dc79b246f193e~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_567676d5d8ba4048a65dc79b246f193e~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_567676d5d8ba4048a65dc79b246f193e~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_567676d5d8ba4048a65dc79b246f193e~mv2.png"
+    },
+    "assets/images/591247_5976cb63deac43c284b0ddf840c1c2d0~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_5976cb63deac43c284b0ddf840c1c2d0~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_5976cb63deac43c284b0ddf840c1c2d0~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_5976cb63deac43c284b0ddf840c1c2d0~mv2.png"
+    },
+    "assets/images/591247_5a22b1db7713462a84e2464dca00ea07~mv2.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_5a22b1db7713462a84e2464dca00ea07~mv2.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_5a22b1db7713462a84e2464dca00ea07~mv2.jpg/v1/fit/w_1600,h_1600,q_85/591247_5a22b1db7713462a84e2464dca00ea07~mv2.jpg"
+    },
+    "assets/images/591247_5c8a126ee8a64659ba30f5fb21659560~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_5c8a126ee8a64659ba30f5fb21659560~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_5c8a126ee8a64659ba30f5fb21659560~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_5c8a126ee8a64659ba30f5fb21659560~mv2.png"
+    },
+    "assets/images/591247_5cb0da72b5e044ad9ccc166e1b28a99a~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_5cb0da72b5e044ad9ccc166e1b28a99a~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_5cb0da72b5e044ad9ccc166e1b28a99a~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_5cb0da72b5e044ad9ccc166e1b28a99a~mv2.png"
+    },
+    "assets/images/591247_64a9883ece124510b5ba9aba8005c09c~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_64a9883ece124510b5ba9aba8005c09c~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_64a9883ece124510b5ba9aba8005c09c~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_64a9883ece124510b5ba9aba8005c09c~mv2.png"
+    },
+    "assets/images/591247_68d95fea3bec44de8f208f14fdbe8170~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_68d95fea3bec44de8f208f14fdbe8170~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_68d95fea3bec44de8f208f14fdbe8170~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_68d95fea3bec44de8f208f14fdbe8170~mv2.png"
+    },
+    "assets/images/591247_68dc1ea36fcf42679b30fd19c516165a~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_68dc1ea36fcf42679b30fd19c516165a~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_68dc1ea36fcf42679b30fd19c516165a~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_68dc1ea36fcf42679b30fd19c516165a~mv2.png"
+    },
+    "assets/images/591247_694f1ac844544a039fd4381472b1206d~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_694f1ac844544a039fd4381472b1206d~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_694f1ac844544a039fd4381472b1206d~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_694f1ac844544a039fd4381472b1206d~mv2.png"
+    },
+    "assets/images/591247_69afe783761642e8b3bdab329a70852f~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_69afe783761642e8b3bdab329a70852f~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_69afe783761642e8b3bdab329a70852f~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_69afe783761642e8b3bdab329a70852f~mv2.png"
+    },
+    "assets/images/591247_6c947283d1534d149513a41611e3cd42~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_6c947283d1534d149513a41611e3cd42~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_6c947283d1534d149513a41611e3cd42~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_6c947283d1534d149513a41611e3cd42~mv2.png"
+    },
+    "assets/images/591247_6caf4cac0310458081996ff9829c7b3a~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_6caf4cac0310458081996ff9829c7b3a~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_6caf4cac0310458081996ff9829c7b3a~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_6caf4cac0310458081996ff9829c7b3a~mv2.png"
+    },
+    "assets/images/591247_7347712f3ff6444096552a1f28e69fd0~mv2.jpeg": {
+      "origin": "https://static.wixstatic.com/media/591247_7347712f3ff6444096552a1f28e69fd0~mv2.jpeg",
+      "delivery": "https://static.wixstatic.com/media/591247_7347712f3ff6444096552a1f28e69fd0~mv2.jpeg/v1/fit/w_1600,h_1600,q_85/591247_7347712f3ff6444096552a1f28e69fd0~mv2.jpeg"
+    },
+    "assets/images/591247_76f633710f664b5ca1279662a4707177~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_76f633710f664b5ca1279662a4707177~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_76f633710f664b5ca1279662a4707177~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_76f633710f664b5ca1279662a4707177~mv2.png"
+    },
+    "assets/images/591247_7d6dcf4918254ec7a5ec0aade1d3c2fa~mv2.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_7d6dcf4918254ec7a5ec0aade1d3c2fa~mv2.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_7d6dcf4918254ec7a5ec0aade1d3c2fa~mv2.jpg/v1/fit/w_1600,h_1600,q_85/591247_7d6dcf4918254ec7a5ec0aade1d3c2fa~mv2.jpg"
+    },
+    "assets/images/591247_845706462d74475c93fa041dadf6e465~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_845706462d74475c93fa041dadf6e465~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_845706462d74475c93fa041dadf6e465~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_845706462d74475c93fa041dadf6e465~mv2.png"
+    },
+    "assets/images/591247_84877c02e2784629bdabd7a0cca2b7e0~mv2.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_84877c02e2784629bdabd7a0cca2b7e0~mv2.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_84877c02e2784629bdabd7a0cca2b7e0~mv2.jpg/v1/fit/w_1600,h_1600,q_85/591247_84877c02e2784629bdabd7a0cca2b7e0~mv2.jpg"
+    },
+    "assets/images/591247_850ea4c5417d4f26a64293ce7ccbf1f7f000.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_850ea4c5417d4f26a64293ce7ccbf1f7f000.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_850ea4c5417d4f26a64293ce7ccbf1f7f000.jpg/v1/fit/w_1600,h_1600,q_85/591247_850ea4c5417d4f26a64293ce7ccbf1f7f000.jpg"
+    },
+    "assets/images/591247_8fd511f8f1f74f3e8f62944e2a258564~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_8fd511f8f1f74f3e8f62944e2a258564~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_8fd511f8f1f74f3e8f62944e2a258564~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_8fd511f8f1f74f3e8f62944e2a258564~mv2.png"
+    },
+    "assets/images/591247_94cd2a28895246f99a893b4a50fb334b~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_94cd2a28895246f99a893b4a50fb334b~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_94cd2a28895246f99a893b4a50fb334b~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_94cd2a28895246f99a893b4a50fb334b~mv2.png"
+    },
+    "assets/images/591247_9610f945c7124dbdb4a4855ebed77626~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_9610f945c7124dbdb4a4855ebed77626~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_9610f945c7124dbdb4a4855ebed77626~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_9610f945c7124dbdb4a4855ebed77626~mv2.png"
+    },
+    "assets/images/591247_977802d93b6c44d684fc220de8ef01ef~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_977802d93b6c44d684fc220de8ef01ef~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_977802d93b6c44d684fc220de8ef01ef~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_977802d93b6c44d684fc220de8ef01ef~mv2.png"
+    },
+    "assets/images/591247_9a942a1257e94908b8f49c7b3faee7bf~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_9a942a1257e94908b8f49c7b3faee7bf~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_9a942a1257e94908b8f49c7b3faee7bf~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_9a942a1257e94908b8f49c7b3faee7bf~mv2.png"
+    },
+    "assets/images/591247_9bf8f64257184f10a8ddcb466905f12b~mv2.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_9bf8f64257184f10a8ddcb466905f12b~mv2.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_9bf8f64257184f10a8ddcb466905f12b~mv2.jpg/v1/fit/w_1600,h_1600,q_85/591247_9bf8f64257184f10a8ddcb466905f12b~mv2.jpg"
+    },
+    "assets/images/591247_9e9eb9f0f0f84bd59efaae5b49da657c~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_9e9eb9f0f0f84bd59efaae5b49da657c~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_9e9eb9f0f0f84bd59efaae5b49da657c~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_9e9eb9f0f0f84bd59efaae5b49da657c~mv2.png"
+    },
+    "assets/images/591247_ac38d40605ea4b6d81cfc02d55cbdcf4~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_ac38d40605ea4b6d81cfc02d55cbdcf4~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_ac38d40605ea4b6d81cfc02d55cbdcf4~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_ac38d40605ea4b6d81cfc02d55cbdcf4~mv2.png"
+    },
+    "assets/images/591247_ac3cda36e0fa4171b95133585dc28e29~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_ac3cda36e0fa4171b95133585dc28e29~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_ac3cda36e0fa4171b95133585dc28e29~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_ac3cda36e0fa4171b95133585dc28e29~mv2.png"
+    },
+    "assets/images/591247_ad81d63c44a84aa3bcf60082fdb4921a~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_ad81d63c44a84aa3bcf60082fdb4921a~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_ad81d63c44a84aa3bcf60082fdb4921a~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_ad81d63c44a84aa3bcf60082fdb4921a~mv2.png"
+    },
+    "assets/images/591247_bf50f2b9825549018f96c385eb1ac16a~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_bf50f2b9825549018f96c385eb1ac16a~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_bf50f2b9825549018f96c385eb1ac16a~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_bf50f2b9825549018f96c385eb1ac16a~mv2.png"
+    },
+    "assets/images/591247_bfabc2ebfe524c979b69dcabaa48446f~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_bfabc2ebfe524c979b69dcabaa48446f~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_bfabc2ebfe524c979b69dcabaa48446f~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_bfabc2ebfe524c979b69dcabaa48446f~mv2.png"
+    },
+    "assets/images/591247_c06a606a09084fcebc48c8e11d18ad07~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_c06a606a09084fcebc48c8e11d18ad07~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_c06a606a09084fcebc48c8e11d18ad07~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_c06a606a09084fcebc48c8e11d18ad07~mv2.png"
+    },
+    "assets/images/591247_c06d4b84f2b04986b6f11fa0a35ae208f000.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_c06d4b84f2b04986b6f11fa0a35ae208f000.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_c06d4b84f2b04986b6f11fa0a35ae208f000.jpg/v1/fit/w_1600,h_1600,q_85/591247_c06d4b84f2b04986b6f11fa0a35ae208f000.jpg"
+    },
+    "assets/images/591247_c2565dbbbff24f08b4b620cdc88434d0~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_c2565dbbbff24f08b4b620cdc88434d0~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_c2565dbbbff24f08b4b620cdc88434d0~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_c2565dbbbff24f08b4b620cdc88434d0~mv2.png"
+    },
+    "assets/images/591247_c585f7ee871449bda8c36cc3fb374140~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_c585f7ee871449bda8c36cc3fb374140~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_c585f7ee871449bda8c36cc3fb374140~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_c585f7ee871449bda8c36cc3fb374140~mv2.png"
+    },
+    "assets/images/591247_c6856e8312fa4c5f8f95c2dec832092e~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_c6856e8312fa4c5f8f95c2dec832092e~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_c6856e8312fa4c5f8f95c2dec832092e~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_c6856e8312fa4c5f8f95c2dec832092e~mv2.png"
+    },
+    "assets/images/591247_c7ee239139a54ae9b57781230281ba9f~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_c7ee239139a54ae9b57781230281ba9f~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_c7ee239139a54ae9b57781230281ba9f~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_c7ee239139a54ae9b57781230281ba9f~mv2.png"
+    },
+    "assets/images/591247_c877b55e904340a7bbb7f5f4976c6aba~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_c877b55e904340a7bbb7f5f4976c6aba~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_c877b55e904340a7bbb7f5f4976c6aba~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_c877b55e904340a7bbb7f5f4976c6aba~mv2.png"
+    },
+    "assets/images/591247_c89d0bd992734897849b523b0b5508dd~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_c89d0bd992734897849b523b0b5508dd~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_c89d0bd992734897849b523b0b5508dd~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_c89d0bd992734897849b523b0b5508dd~mv2.png"
+    },
+    "assets/images/591247_cbba71e4bb8c4f0b9eaee1af3b342a07~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_cbba71e4bb8c4f0b9eaee1af3b342a07~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_cbba71e4bb8c4f0b9eaee1af3b342a07~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_cbba71e4bb8c4f0b9eaee1af3b342a07~mv2.png"
+    },
+    "assets/images/591247_d415eeca38d24b6c8842a998fafcb19c~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_d415eeca38d24b6c8842a998fafcb19c~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_d415eeca38d24b6c8842a998fafcb19c~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_d415eeca38d24b6c8842a998fafcb19c~mv2.png"
+    },
+    "assets/images/591247_dee3a9fbc0924f3fa0953da59e9b68e6~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_dee3a9fbc0924f3fa0953da59e9b68e6~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_dee3a9fbc0924f3fa0953da59e9b68e6~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_dee3a9fbc0924f3fa0953da59e9b68e6~mv2.png"
+    },
+    "assets/images/591247_e0f92e9c73364786933e3a8713cf23b5~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_e0f92e9c73364786933e3a8713cf23b5~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_e0f92e9c73364786933e3a8713cf23b5~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_e0f92e9c73364786933e3a8713cf23b5~mv2.png"
+    },
+    "assets/images/591247_e1850ebed8d64cd38466c609e924101e~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_e1850ebed8d64cd38466c609e924101e~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_e1850ebed8d64cd38466c609e924101e~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_e1850ebed8d64cd38466c609e924101e~mv2.png"
+    },
+    "assets/images/591247_e510a27615f64dc19a5d7ebdef04a655~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_e510a27615f64dc19a5d7ebdef04a655~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_e510a27615f64dc19a5d7ebdef04a655~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_e510a27615f64dc19a5d7ebdef04a655~mv2.png"
+    },
+    "assets/images/591247_e87820e6a8484298b628c5db6a3cf3fc~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_e87820e6a8484298b628c5db6a3cf3fc~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_e87820e6a8484298b628c5db6a3cf3fc~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_e87820e6a8484298b628c5db6a3cf3fc~mv2.png"
+    },
+    "assets/images/591247_ecf56cebf92b455d874b6db072a7bd75~mv2.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_ecf56cebf92b455d874b6db072a7bd75~mv2.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_ecf56cebf92b455d874b6db072a7bd75~mv2.jpg/v1/fit/w_1600,h_1600,q_85/591247_ecf56cebf92b455d874b6db072a7bd75~mv2.jpg"
+    },
+    "assets/images/591247_f2ed601c703f49a98f2a9062a64ae0a1~mv2.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_f2ed601c703f49a98f2a9062a64ae0a1~mv2.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_f2ed601c703f49a98f2a9062a64ae0a1~mv2.jpg/v1/fit/w_1600,h_1600,q_85/591247_f2ed601c703f49a98f2a9062a64ae0a1~mv2.jpg"
+    },
+    "assets/images/591247_f580aafeb5a54cc48ca10e35927f1b47~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_f580aafeb5a54cc48ca10e35927f1b47~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_f580aafeb5a54cc48ca10e35927f1b47~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_f580aafeb5a54cc48ca10e35927f1b47~mv2.png"
+    },
+    "assets/images/591247_f7ca3b0a6c63423c96ee3010f6c05186~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_f7ca3b0a6c63423c96ee3010f6c05186~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_f7ca3b0a6c63423c96ee3010f6c05186~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_f7ca3b0a6c63423c96ee3010f6c05186~mv2.png"
+    },
+    "assets/images/591247_f83970d5952f4956a7427e8b8ff1bfae~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_f83970d5952f4956a7427e8b8ff1bfae~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_f83970d5952f4956a7427e8b8ff1bfae~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_f83970d5952f4956a7427e8b8ff1bfae~mv2.png"
+    },
+    "assets/images/591247_fd365f025ea84ce2a87aebd585839ed2~mv2.png": {
+      "origin": "https://static.wixstatic.com/media/591247_fd365f025ea84ce2a87aebd585839ed2~mv2.png",
+      "delivery": "https://static.wixstatic.com/media/591247_fd365f025ea84ce2a87aebd585839ed2~mv2.png/v1/fit/w_1600,h_1600,q_85/591247_fd365f025ea84ce2a87aebd585839ed2~mv2.png"
+    },
+    "assets/images/591247_fd7a13c50ccc4726aa2e22025453334a~mv2.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_fd7a13c50ccc4726aa2e22025453334a~mv2.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_fd7a13c50ccc4726aa2e22025453334a~mv2.jpg/v1/fit/w_1600,h_1600,q_85/591247_fd7a13c50ccc4726aa2e22025453334a~mv2.jpg"
+    },
+    "assets/images/591247_fe0dd765032047d38105c354bf370981~mv2.jpg": {
+      "origin": "https://static.wixstatic.com/media/591247_fe0dd765032047d38105c354bf370981~mv2.jpg",
+      "delivery": "https://static.wixstatic.com/media/591247_fe0dd765032047d38105c354bf370981~mv2.jpg/v1/fit/w_1600,h_1600,q_85/591247_fe0dd765032047d38105c354bf370981~mv2.jpg"
+    }
+  }
+}
